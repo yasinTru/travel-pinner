@@ -10,4 +10,4 @@
  
 
 
-!(https://github.com/yasinTru/travel-pinner/blob/master/client/images/reviewSs.png)
+![](https://github.com/yasinTru/travel-pinner/blob/master/client/images/reviewSs.png)
