@@ -8,3 +8,6 @@
  - Mapbox
  - Material Ui
  
+
+
+!(https://github.com/yasinTru/travel-pinner/blob/master/client/images/reviewSs.png)
