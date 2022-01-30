@@ -1,10 +1,10 @@
 # Travel Pinner
 ## Application where users can share their travel experiences. 
 
-##Used Technologies
+## Used Technologies
 
- -React
- -MongoDb
- -Mapbox
- -Material Ui
+ - React
+ - MongoDb
+ - Mapbox
+ - Material Ui
  
